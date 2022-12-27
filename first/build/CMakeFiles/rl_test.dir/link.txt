@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rl_test.dir/src/main.cpp.o -o rl_test  -lraylib 

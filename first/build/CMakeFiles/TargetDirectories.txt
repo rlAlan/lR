@@ -1,0 +1,3 @@
+/home/alan/top_secret/cpp/Raylib/lR/first/build/CMakeFiles/rl_test.dir
+/home/alan/top_secret/cpp/Raylib/lR/first/build/CMakeFiles/edit_cache.dir
+/home/alan/top_secret/cpp/Raylib/lR/first/build/CMakeFiles/rebuild_cache.dir
